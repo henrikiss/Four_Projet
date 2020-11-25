@@ -7,8 +7,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-a,
-button {
+a:button {
     transition: all .3s ease-in-out;
     outline: none!important;
 }
@@ -199,7 +198,7 @@ a:hover {
 }
 
 .d-bloc .panel button:hover,
-.l-bloc button:hover {
+.l-bloc .button:hover {
     color: rgba(0, 0, 0, .7);
 }
 
