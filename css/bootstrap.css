@@ -4373,7 +4373,7 @@ tbody.collapse.in {
     cursor: not-allowed;
     background-color: transparent;
     background-image: none;
-    filter: gradient(opacity=0);
+    filter: none;
 }
 
 .open>.dropdown-menu {
