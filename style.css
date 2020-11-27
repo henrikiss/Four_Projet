@@ -683,7 +683,6 @@ a {
     max-width: 1000px;
 }
 
-
 .hero-bloc-text {
     font-size: 38px;
 }
@@ -929,7 +928,6 @@ h4 {
         
     }
 }
-
 @media (max-width: 767px) {
     .page-container {
         overflow-x: hidden;
