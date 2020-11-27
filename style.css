@@ -283,6 +283,22 @@ a:hover {
     font-size: 32px;
 }
 
+#bloc-3-what-i-do p {
+    font-size: 1.4rem;
+}
+
+#bloc-8 p {
+    color: #424242!important;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 1rem 2rem;
+}
+
+.footer-copyright {
+    color: #424242;
+    text-align: center;
+}
+
 .navbar {
     margin-bottom: 0;
     z-index: 1;
@@ -435,6 +451,14 @@ nav .caret {
     float: right;
 }
 
+.tc-white3 {
+    color: #575757!important;
+}
+
+.blockquote p {
+    font-size: 1.4rem;
+}
+
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
@@ -476,6 +500,7 @@ button {
 }
 
 .icon-md {
+    color: #424242!important;
     font-size: 30px!important;
 }
 
@@ -757,9 +782,18 @@ h4 {
     padding: 40px 40px 40px 40px;
 }
 
+#bloc-3-what-i-do a {
+    font-size: 1.6rem;
+}
+
 .bold-link {
     font-weight: 900;
     text-decoration: underline!important;
+}
+
+.blockquote blockquote {
+    color: rgba(0,0,0,.65);
+    margin-bottom: 0;
 }
 
 .bgc-white {
@@ -776,6 +810,10 @@ h4 {
 
 .tc-white {
     color: #F3976C!important;
+}
+
+.tc-white5 {
+    color:  #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
